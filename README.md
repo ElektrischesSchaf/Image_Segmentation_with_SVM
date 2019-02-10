@@ -4,7 +4,7 @@ Objective: Automatic segment the vertebrae from axial view CT images.
 ![Sample](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/N16074988/Data/data02/image/image0202.png)  
 Image data from xVertSeg Database.
 ---
-![Menu](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/ScreenShots/Menu.png  
+![Menu](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/ScreenShots/Menu.png)  
 Program GUI
 ---
 ![02-0202](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/ScreenShots/default.png)
