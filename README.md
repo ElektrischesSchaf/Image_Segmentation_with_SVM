@@ -1,5 +1,4 @@
 # Image Segmentation with OpenCV Support Vector Machine Library
----
 Objective: Automatic segment the vertebrae from axial view CT images.  
 ![Sample](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/N16074988/Data/data02/image/image0202.png)  
 Image data from xVertSeg Database.
