@@ -1,4 +1,7 @@
 ## Image Segmentation with SVM
+![Menu](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/ScreenShots/Menu.png)
+Program UI
+---
 ![02-0202](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/ScreenShots/default.png)
 Image 02/0202, Dice coefficient=86.9799%
 ---
