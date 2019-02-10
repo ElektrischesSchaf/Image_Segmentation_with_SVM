@@ -1,4 +1,4 @@
-## Image Segmentation with SVM
+# Image Segmentation with OpenCV Support Vector Machine Library
 ![Menu](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/ScreenShots/Menu.png)
 Program UI
 ---
