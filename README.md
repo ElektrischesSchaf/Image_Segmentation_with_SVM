@@ -1,4 +1,5 @@
 # Image Segmentation with OpenCV Support Vector Machine Library
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1854--4003-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1854-4003)
 Objective: Automatic segment the vertebrae from axial view CT images.  
 ![Sample](https://github.com/ElektrischesSchaf/Image_Segmentation_with_SVM/blob/master/N16074988/Data/data02/image/image0202.png)  
 Image data from xVertSeg Database.
